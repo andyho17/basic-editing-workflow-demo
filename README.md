@@ -15,6 +15,7 @@ this is body text. *wow* **wow**
 ## saving
 ctrl + s to save
 hit + under changes to stage the following files for next commit
+sync changes unhit: means local timestamp created not onn github yet
 
 ## extra notes
 "#" create headers, up to 5 headers, the more the smaller
